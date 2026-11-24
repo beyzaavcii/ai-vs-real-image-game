@@ -22,7 +22,7 @@ Players choose a category and difficulty level, inspect the displayed candidate 
 ## Repository Structure
 
 ```text
-1030510546_BS435_WebProgramlama/
+ai-vs-real-image-game/
 ├── public/                 # Static assets and image files
 ├── src/
 │   ├── components/
@@ -51,8 +51,8 @@ Players choose a category and difficulty level, inspect the displayed candidate 
 
 ### Run Locally
 ```bash
-git clone [https://github.com/beyzaavcii/1030510546_BS435_WebProgramlama.git](https://github.com/beyzaavcii/1030510546_BS435_WebProgramlama.git)
-cd 1030510546_BS435_WebProgramlama
+git clone [https://github.com/beyzaavcii/ai-vs-real-image-game.git](https://github.com/beyzaavcii/ai-vs-real-image-game.git)
+cd ai-vs-real-image-game
 npm install
 npm run dev
 ```
